@@ -77,7 +77,7 @@ If you want to take it even further from there, check out the [Grants Applicatio
 
 ## Continuing/what now?
 
-Now after you have your wallet, you might want to check out the [deployment guide](https://docs.akash.network/guides/deployment) to learn how to deploy. If you're on Windows, you might want to check out [this](https://www.akashlytics.com/deploy) deploy tool.
+Now after you have your wallet, you might want to check out the [deployment guide](https://docs.akash.network/guides/deployment) to learn how to deploy. If you're on Windows, you might want to check out [this](https://www.akashlytics.com/deploy) deploy tool. I also made [this](https://github.com/figurestudios/akash-docs/blob/main/deploy/deploying-a-pkt-miner.md) easy to follow guide using a community built tool!
 
 If you need to learn how to use Docker and dockerizing your applications, do that first. There are many free tutorials that are perfect for most use-cases on YouTube, and you can always ask for help.
 
