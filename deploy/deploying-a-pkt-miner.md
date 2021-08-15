@@ -23,7 +23,7 @@
  - In the tool, go to `Deployments` > `Create Deployment`.
  - Navigate forward by pressing Next > Empty <sub><sup>(An empty template with some basic config to get started.)</sub></sup> > Continue.
  - Paste the contents we copied in the first step.
- - Swap out the <PKT_WALLET> from `WALLET_ADDR=<PKT_Wallet>` to your wallet. It will look similar to this: `WALLET_ADDRpkt1q76e5rqurp7lhpvqcnvvuwsuckqcrzsn9hlxdyc`.
+ - Swap out the <PKT_WALLET> from `WALLET_ADDR=<PKT_Wallet>` to your wallet. It will look similar to this: `WALLET_ADDR=pkt1q76e5rqurp7lhpvqcnvvuwsuckqcrzsn9hlxdyc`.
  - Swap out the latest to v1.0.0 from `image: chandrastation/pkt_on_akash:latest`. It should look like this `image: chandrastation/pkt_on_akash:v1.0.0`.
  - Press `Create Deployment`, set fees, and press `Approve`.
  - Once you can see bids, select one and press `Accept Bid`.
